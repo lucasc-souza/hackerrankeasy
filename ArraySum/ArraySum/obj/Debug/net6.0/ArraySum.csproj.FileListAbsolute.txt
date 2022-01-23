@@ -1,0 +1,15 @@
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ArraySum.exe
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ArraySum.deps.json
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ArraySum.runtimeconfig.json
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ArraySum.dll
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ref\ArraySum.dll
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\bin\Debug\net6.0\ArraySum.pdb
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.csproj.AssemblyReference.cache
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.AssemblyInfoInputs.cache
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.AssemblyInfo.cs
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.csproj.CoreCompileInputs.cache
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.dll
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ref\ArraySum.dll
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.pdb
+C:\Users\Lucas e Gabi\Desktop\estudo\hackerrank\ArraySum\ArraySum\obj\Debug\net6.0\ArraySum.genruntimeconfig.cache
